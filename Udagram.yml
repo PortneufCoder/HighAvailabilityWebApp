@@ -1,6 +1,4 @@
-  
-# This document uses recommendations located at the following URL:
-# https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html
+
 
 AWSTemplateFormatVersion: '2010-09-09'
 
@@ -621,7 +619,6 @@ Resources:
 
             ImageId: ami-082b5a644766e0e6f # Amazon Linux
             InstanceType: !Ref InstanceType
-            KeyName: !Ref KeyPairName # SSH Key value here if/when necessary
             # Associate server instances with a SecurityGroup
             SecurityGroups: 
             -   Ref: WebServerSecurityGroup
