@@ -1,6 +1,6 @@
 # An example of a High Availability Web app, provsioned with AWS CloudFormation
 
-[^1]: This has been created as a prject for my Cloud DevOps Engineer nanodegree.
+
 
 ## Types of cloud resources provisioned in this stack:
 
@@ -12,3 +12,5 @@
 - etc
 
 ### There is also a CLoud Infrastructure diagram which gives a high level view of the provisioned stack
+
+[^1]: This has been created as a prject for my Cloud DevOps Engineer nanodegree.
