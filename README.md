@@ -13,4 +13,4 @@
 
 ### There is also a CLoud Infrastructure diagram which gives a high level view of the provisioned stack
 
-[^1]: This has been created as a prject for my Cloud DevOps Engineer nanodegree.
+ This has been created as a prject for my Cloud DevOps Engineer nanodegree.
